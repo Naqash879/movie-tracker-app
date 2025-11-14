@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -19,6 +20,16 @@ function App() {
         </a>
       </header>
     </div>
+=======
+import logo from "./logo.svg";
+import "./App.css";
+import Login from "./Login.js";
+function App() {
+  return (
+    <>
+      <Login />
+    </>
+>>>>>>> 5001c609f16f6a274aa69d9a0f7b38be189b4250
   );
 }
 
