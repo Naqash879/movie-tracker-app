@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "movie-tracker-app",
-=======
-  "name": "git-branch-merge",
->>>>>>> 5001c609f16f6a274aa69d9a0f7b38be189b4250
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,13 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
-=======
   },
   "devDependencies": {
     "autoprefixer": "^10.4.22",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.17"
->>>>>>> 5001c609f16f6a274aa69d9a0f7b38be189b4250
+    "postcss": "^8.5.6"
   }
 }
